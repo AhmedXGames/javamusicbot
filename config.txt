@@ -1,4 +1,4 @@
-token=NjczMjUyMjQ2ODc1Nzk5NTYz.Xj6L0w.2IaiCZB_Kb5zgpYI25GgMhM8nwI
+token=Njc1NjYxNjY3NjIyOTc3NTYz.Xj6Y_A.-R55eqLoKfXZ0vsAjLsO1KGHAmo
 owner=578205429637709824
 prefix=1
 stayinchannel=true
